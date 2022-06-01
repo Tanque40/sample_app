@@ -1,2 +1,2 @@
-# sample_app
+# Sample App
 sample app from rails tutorial
