@@ -13,6 +13,7 @@ gem 'bootstrap-sass', '3.4.1'
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
+gem 'rails-controller-testing'
 
 
 # Use the Puma web server [https://github.com/puma/puma]
